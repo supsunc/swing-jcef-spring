@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: my.client.main.Main
+Class-Path: bin\spring\commons-logging-1.1.1.jar bin\spring\spring-aop-5
+ .2.0.RELEASE.jar bin\spring\spring-core-5.2.0.RELEASE.jar bin\spring\sp
+ ring-beans-5.2.0.RELEASE.jar bin\spring\spring-context-5.2.0.RELEASE.ja
+ r bin\spring\spring-expression-5.2.0.RELEASE.jar bin\jcef\jcef.jar bin\
+ jcef\jogl-all.jar bin\jcef\gluegen-rt.jar bin\jcef\jcef-tests.jar bin\j
+ cef\jogl-all-natives-windows-amd64.jar bin\jcef\gluegen-rt-natives-wind
+ ows-amd64.jar
+

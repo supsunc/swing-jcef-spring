@@ -1,0 +1,1 @@
+java -Djava.library.path=.\bin\jcef\lib -jar jcef.jar

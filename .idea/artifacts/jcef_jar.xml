@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact name="jcef:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jcef_jar</output-path>
+    <root id="root">
+      <element id="archive" name="jcef.jar">
+        <element id="module-output" name="jcef" />
+      </element>
+      <element id="directory" name="bin">
+        <element id="directory" name="jcef">
+          <element id="library" level="project" name="jcef" />
+          <element id="directory" name="lib">
+            <element id="dir-copy" path="$PROJECT_DIR$/src/main/lib/jcef/lib/win64" />
+          </element>
+        </element>
+        <element id="directory" name="spring">
+          <element id="library" level="project" name="spring" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
